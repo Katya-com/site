@@ -1,4 +1,6 @@
 #first {
-    justify-content: center;
+    height: 96px;
     display: flex;
+    justify-content: center;
+    
 }
