@@ -1,6 +1,10 @@
-.text {
-    width: 360px;
+#first {
     display: flex;
-    justify-content: center;
-    
+}
+
+.text {
+    height: 180px;
+    width: 180px;
+
+
 }
